@@ -1,0 +1,53 @@
+/CACT_DROME.err/1.1/Mon Jan  5 17:04:56 2004/-kb/
+/CACT_DROME.out/1.1/Mon Jan  5 17:04:56 2004/-kb/
+/COG0442.fasta/1.1/Mon Oct 27 10:55:45 2003/-kb/
+/EvdSearch.fasta/1.1/Mon Oct 27 10:55:45 2003/-kb/
+/OTHERS.fasta/1.1/Mon Oct 27 10:55:45 2003/-kb/
+/RndAligns.sxc/1.1/Wed Nov 26 16:05:20 2003/-kb/
+/RndAligns2.sxc/1.1/Wed Nov 26 16:05:20 2003/-kb/
+/SelfSimilarity All.launch/1.4/Wed Dec 31 13:37:06 2003//
+/SelfSimilarity Balibase Protein.launch/1.10/Wed Sep  1 16:10:53 2004//
+/SelfSimilarity Balibase.launch/1.6/Sun Jan  4 15:29:43 2004//
+/SelfSimilarity EVD All.launch/1.2/Thu Nov  6 13:53:46 2003//
+/SelfSimilarity EVD Protein.launch/1.3/Tue Nov 25 09:36:34 2003//
+/SelfSimilarity Protein.launch/1.11/Fri Jul 16 12:51:58 2004//
+/TESTDB.fasta/1.7/Tue Jun 29 13:01:15 2004/-kb/
+/TESTDB.fasta.seg/1.6/Tue Jun 29 13:01:15 2004/-kb/
+/TestSet.fasta/1.1/Mon Oct 27 10:55:45 2003/-kb/
+/TestSetNoTrace.fasta/1.1/Mon Oct 27 10:55:45 2003/-kb/
+/TestSetSeg-list.sxc/1.1/Tue Nov 25 09:36:34 2003/-kb/
+/TestSetSeg-list.txt/1.1/Tue Nov 25 09:36:34 2003//
+/TestSetSeg.fasta/1.1/Mon Oct 27 10:55:45 2003/-kb/
+/ank_ref6.tfa/1.1/Mon Dec 15 23:17:01 2003/-kb/
+/ank_ref6.tfa.seg/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/apo_ref6.tfa/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/apo_ref6.tfa.seg/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/apo_ref6_rev.tfa/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/apo_ref6_rev.tfa.seg/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/bestScores.sxc/1.1/Mon Dec  1 09:46:57 2003/-kb/
+/bestScores.txt/1.1/Mon Dec  1 09:46:57 2003/-kb/
+/coverage-ARVC_HUMAN.txt/1.1/Wed Nov 26 16:05:20 2003//
+/coverage-LRC2_MOUSE.txt/1.1/Wed Nov 26 16:05:20 2003//
+/dead_ref6.tfa/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/dead_ref6.tfa.seg/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/favourites.fasta/1.1/Tue Dec 23 15:40:38 2003/-kb/
+/favourites.fasta.seg/1.1/Fri Jan  2 13:15:26 2004/-kb/
+/myb_1_ref6.tfa/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/myb_1_ref6.tfa.seg/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/myb_ref6.tfa/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/myb_ref6.tfa.seg/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/myb_ref6_noseg.tfa/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/myb_ref6_noseg.tfa.seg/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/random.fasta/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/random.fasta.seg/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/run_balibase.sh/1.3/Wed Dec 31 13:37:06 2003/-kb/
+/seq.seq/1.1/Mon Mar  1 15:20:05 2004/-kb/
+/seq.seq.seg/1.1/Mon Mar  1 15:20:05 2004/-kb/
+/seqs350-1000all.fasta/1.1/Mon Oct 27 10:55:45 2003/-kb/
+/seqs350-1000all.freq/1.1/Mon Oct 27 10:55:45 2003/-kb/
+/seqs350-1000all_anal.txt/1.1/Mon Oct 27 10:55:45 2003//
+/seqs350-1000allseg.fasta/1.1/Mon Oct 27 10:55:45 2003/-kb/
+/sushi_ref6.tfa/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/sushi_ref6.tfa.seg/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/zf_2_ref6.tfa/1.1/Wed Dec 31 13:37:06 2003/-kb/
+/zf_2_ref6.tfa.seg/1.1/Wed Dec 31 13:37:06 2003/-kb/

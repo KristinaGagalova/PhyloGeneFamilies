@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="nl.vu.cs.align.SelfSimilarity"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-fasta data/favourites.fasta -protein P03001 -o pictures -procNr 0 -procTotal 1 -matrix BLOSUM62 -gapo 10 -gapx 3 -force -max 1000 -html"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Align"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-server -Xmx256m"/>
+<stringAttribute key="org.eclipse.debug.ui.target_debug_perspective" value="perspective_default"/>
+<booleanAttribute key="org.eclipse.debug.core.appendEnvironmentVariables" value="true"/>
+<stringAttribute key="org.eclipse.debug.ui.target_run_perspective" value="perspective_default"/>
+</launchConfiguration>

@@ -1,0 +1,41 @@
+>CACT_DROME
+# For protein CACT_DROME repeat 226..261 scored 53.149765 scored (no gaps) 65.149765 included
+# For protein CACT_DROME repeat 262..294 scored 67.63442 scored (no gaps) 67.63442 included
+# For protein CACT_DROME repeat 295..327 scored 44.877247 scored (no gaps) 44.877247 included
+# For protein CACT_DROME repeat 328..357 scored -16.361351 scored (no gaps) 1.63865 excluded
+# For protein CACT_DROME repeat 358..390 scored 70.804115 scored (no gaps) 70.804115 included
+# For protein CACT_DROME repeat 391..424 scored 31.525951 scored (no gaps) 39.52595 included
+# For protein CACT_DROME repeat 425..456 scored 24.554104 scored (no gaps) 34.554104 included
+# For protein CACT_DROME repeat 225..294 scored 124.50258 scored (no gaps) 132.50258 included
+# For protein CACT_DROME repeat 295..390 scored 73.14691 scored (no gaps) 143.14691 included
+# For protein CACT_DROME repeat 391..456 scored 84.90431 scored (no gaps) 84.90431 included
+# type_of_the_repeat
+REPEAT_TYPE 1
+# profile_length
+REPEAT_LENGTH 33
+# The list of repeats in the format:
+# START LENGTH [PVALUE [SCORE]]
+226 36	# Repeat 1
+262 33	# Repeat 2
+295 33	# Repeat 3
+358 33	# Repeat 4
+391 34	# Repeat 5
+425 32	# Repeat 6
+# The multiple alignment of repeats
+# lo-case letters: not a part of alignment
+# Profile pattern, "X": profile column, "-": a gap
+# X--X-XXXXXXXXXXXXXXXXXXXXXXXX---XXXXXXX
+>Repeat 1
+Q--N-DDGDTPLHLACISGSVDVVAALIRmapHPCLLNI
+>Repeat 2
+Q--N-DVAQTPLHLAALTAQPNIMRILLL---AGAEPTV
+>Repeat 3
+R--D-RHGNTALHLSCIAGEKQCVRALTE---KFGATEI
+>Repeat 4
+R--N-YDGERCVHLAAEAGHIDILRILVS---HGADINA
+>Repeat 5
+R--EgKSGRTPLHIAIEGCNEDLANFLLD---ECEKLNL
+>Repeat 6
+EtaT-YAGLTAYQFACIMNKSRMQNILEK---RGAE---
+# end of protein CACT_DROME
+//

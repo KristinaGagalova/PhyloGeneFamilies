@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+<jar path="/tmp/trust.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/Align/export.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" useSourceFolders="false"/>
+<manifest generateManifest="true" mainClassHandleIdentifier="=Align/&lt;nl.vu.cs.align{SelfSimilarity.java[SelfSimilarity" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+<sealing sealJar="false">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<javaElement handleIdentifier="=Align/&lt;nl.vu.cs.align.algorithm"/>
+<javaElement handleIdentifier="=Align/&lt;nl.vu.cs.align.tools"/>
+<javaElement handleIdentifier="=PNGEncoder"/>
+<file path="/Align/readme.txt"/>
+<javaElement handleIdentifier="=Align/&lt;nl.vu.cs.align.repeats"/>
+<file path="/Align/BLOSUM62"/>
+<file path="/Align/GONNET"/>
+<file path="/Align/BLOSUM50"/>
+<javaElement handleIdentifier="=Align/&lt;nl.vu.cs.align"/>
+<javaElement handleIdentifier="=CmdLineParams/&lt;nl.vu.cs.cmdlineparams"/>
+<file path="/Align/export.jardesc"/>
+<javaElement handleIdentifier="=Align/&lt;nl.vu.cs.align.matrix"/>
+<javaElement handleIdentifier="=Align/&lt;nl.vu.cs.align.substtable"/>
+<javaElement handleIdentifier="=Align/&lt;nl.vu.cs.align.proteinlibs"/>
+<file path="/Align/PAM250"/>
+</selectedElements>
+</jardesc>
