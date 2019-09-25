@@ -3,13 +3,23 @@ Cluster gene families and display phylogeny tree by species
 
 The software is based on [ProGraphMSA](https://github.com/acg-team/ProGraphMSA) and R - ggtree.
 
-Dependencies:
-T-Reks (java) - wget http://bioinfo.montp.cnrs.fr/t-reks/T-Reks.jar
-TRUST: Tracking Repeats Using Transitivity and Significance - wget http://www.ibi.vu.nl/programs/trustwww/trust.tgz
+## Dependencies:
+T-Reks (java) - wget http://bioinfo.montp.cnrs.fr/t-reks/T-Reks.jar           
+TRUST: Tracking Repeats Using Transitivity and Significance - wget http://www.ibi.vu.nl/programs/trustwww/trust.tgz             
 
+## R packages
+* ggtree   
+* treeio      
+* RColorBrewer    
+* ggplot2      
+* grid       
+* gridExtra        
 
 ## Installation
 Download the GitHub repo and add the ```src``` directory to your PATH (linux users). The directory contains the necessary software and scripts to run.
+
+
+![Test image](/images/TestImage.png)
 
 
 ## References
