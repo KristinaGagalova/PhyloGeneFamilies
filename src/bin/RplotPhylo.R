@@ -1,3 +1,5 @@
+#!/usr/bin/env Rscript
+
 #############################
 ####Kristina Gagalova########
 #############################
@@ -29,10 +31,10 @@ tree = read.tree(treeIn)
 ##read labels file
 labs = read.delim(labsIn, header=FALSE)
 
-labs.df = as.data.frame(table(labs$V2))
+labs.df = as.data.frame(table(labs$V1))
 names(labs.df) = c("Species","Frequency")
 
-classes = split(labs$V1,labs$V2)
+classes = split(labs$V2,labs$V1)
 
 tree_labs = groupOTU(tree, classes)
 
